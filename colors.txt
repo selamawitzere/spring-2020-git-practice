@@ -1,2 +1,6 @@
 red
-
+black 
+green
+blue
+apricot
+orange
